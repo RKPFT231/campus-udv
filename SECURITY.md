@@ -1,6 +1,6 @@
 # Seguridad
 
-Campus UDV no tiene servidores ni guarda datos de nadie fuera de tu computador.
+DaCodex no tiene servidores ni guarda datos de nadie fuera de tu computador.
 
 ## Cómo reportar un fallo
 

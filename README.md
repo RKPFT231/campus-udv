@@ -1,4 +1,4 @@
-# Campus UDV
+# DaCodex
 
 Una forma más práctica de usar el campus virtual: tareas, mensajes, horario, clases, archivos y correo reunidos en una sola aplicación para Windows, con notificaciones en tiempo real y un asistente integrado.
 
@@ -6,7 +6,7 @@ Una forma más práctica de usar el campus virtual: tareas, mensajes, horario, c
 
 ## Descargar
 
-Ve a **[Releases](../../releases/latest)** y baja el instalador `Campus UDV_x.y.z_x64-setup.exe`. No necesita permisos de administrador.
+Ve a **[Releases](../../releases/latest)** y baja el instalador `DaCodex_x.y.z_x64-setup.exe`. No necesita permisos de administrador.
 
 Al instalarlo, inicia sesión con tu usuario del campus. A partir de ahí **se actualiza sola** y tu sesión no se cierra.
 

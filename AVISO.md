@@ -1,6 +1,6 @@
 # Aviso importante
 
-**Campus UDV es un proyecto independiente, creado por un estudiante. No es una aplicación oficial** ni está afiliada, patrocinada o avalada por la Universidad Da Vinci de Guatemala.
+**DaCodex es un proyecto independiente, creado por un estudiante. No es una aplicación oficial** ni está afiliada, patrocinada o avalada por la Universidad Da Vinci de Guatemala.
 
 ## Por qué existe
 
