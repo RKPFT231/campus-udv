@@ -22,7 +22,7 @@ Al instalarlo, inicia sesión con tu usuario del campus. A partir de ahí **se a
 
 ## Privacidad
 
-Sin servidores propios ni telemetría. Todo ocurre en tu computador y tu sesión se guarda cifrada con las herramientas de Windows.
+Sin telemetría: la app no envía nada por su cuenta. Todo ocurre en tu computador y tu sesión se guarda cifrada con las herramientas de Windows. Lo único que sale de tu PC es un reporte de la pestaña **Soporte**, y solo si tú lo escribes y lo envías: antes de mandarlo ves exactamente qué lleva, y se ocultan correos, claves, rutas y tu nombre.
 
 ## Contacto
 

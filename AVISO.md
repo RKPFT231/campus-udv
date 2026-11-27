@@ -9,7 +9,7 @@ La universidad no cuenta con una aplicación propia y el sitio web del campus no
 ## Qué hace y qué no hace con tus datos
 
 - Se conecta únicamente al campus de la universidad con **tu propio usuario**, igual que lo harías desde el navegador.
-- Tu sesión se guarda cifrada en tu computador (Administrador de credenciales de Windows). **No existe ningún servidor del autor**: no se recopilan, envían ni almacenan datos de nadie.
+- Tu sesión se guarda cifrada en tu computador (Administrador de credenciales de Windows). La app no envía datos por su cuenta ni lleva telemetría. La única excepción son los reportes de la pestaña **Soporte**: solo se mandan si tú los envías, después de ver una vista previa, con correos, claves, rutas y nombre ocultos, y se guardan solo para atender tu reporte.
 - El asistente opcional usa una clave de API que cada usuario configura por su cuenta.
 - No se guardan contraseñas.
 

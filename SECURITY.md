@@ -1,6 +1,6 @@
 # Seguridad
 
-DaCodex no tiene servidores ni guarda datos de nadie fuera de tu computador.
+DaCodex no tiene telemetría y no guarda datos de nadie fuera de tu computador. Solo viajan los reportes que tú envías desde la pestaña Soporte, con los datos personales ocultos.
 
 ## Cómo reportar un fallo
 
